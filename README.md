@@ -1,4 +1,4 @@
-#Tomy Tutor OS v1.0
+#Tomy Tutor Play Computer OS v1.0
 ##What?
 You remember the Tomy Tutor Toy Computer, it was a child's toy from the 80s. It was an entirely mechanical device that looked like any clunky old computer of the time.
 ![Tomy Tutor Toy Computer](https://github.com/Flowdeeps/tomytutor/raw/master/images/tutor.jpg)
