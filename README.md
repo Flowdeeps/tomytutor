@@ -1,7 +1,7 @@
 #Tomy Tutor OS v1.0
 ##What?
 You remember the Tomy Tutor Toy Computer, it was a child's toy from the 80s. It was an entirely mechanical device that looked like any clunky old computer of the time.
-![Tomy Tutor Toy Computer](https://github.com/Flowdeeps/tomytutor/raw/master/images/tutor.jpg
+![Tomy Tutor Toy Computer](https://github.com/Flowdeeps/tomytutor/raw/master/images/tutor.jpg)
 ##Why?
 Because I saw one online and was taken with the notion of putting a real computer in one. I couldn't very well get away with doing that without having some nod to the original aesthetic so I decided to recreate the scenes from the little roll with the pictures on.
 ###But it's not a real OS
