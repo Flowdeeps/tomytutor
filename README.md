@@ -11,5 +11,5 @@ I know, I know. I've plumped for Helvetica Black and Bariol Bold as the closest 
 ###Python though...
 I wanted to have a go. I spend all my time in javascript so I wanted to have a crack at something else.
 ##Thanks
-This wouldn't have been possible (well it would have been but it would been an absolutely enormous *pita) without [PyGame](http://bitbucket.org/pygame/pygame "PyGame") and [Pygame Text](https://github.com/cosmologicon/pygame-text "PyGameText").
+This wouldn't have been possible (well it would have been but it would been an absolutely enormous *pita) without [Cairo](http://cairographics.org/), [PyGame](http://bitbucket.org/pygame/pygame "PyGame") and [Pygame Text](https://github.com/cosmologicon/pygame-text "PyGameText").
 You'll need both of them to make this run on your own machine.
